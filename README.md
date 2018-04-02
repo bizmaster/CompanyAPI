@@ -15,13 +15,13 @@ Prerequisite:
 How to use:
 1. Connect and Configure Database
 2. Run the following in the command line   
-    a. Composer update
-    b. php artisan migrate
-    c. npm install
-    d. npm run dev
+    2.1. Composer update
+    2.2. php artisan migrate
+    2.3. php artisan make:auth
+    2.4. npm run dev
 
 After Installation
-1. Register API User Admin
+1. Register API User Admin  -> http://localhost/project/register
 2. Add new client authorization
 3. For more details follow the reference guide below
 
