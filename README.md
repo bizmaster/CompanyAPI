@@ -6,16 +6,19 @@ Laravel 5.5
 
 Prerequisite:
 1. Laravel 5.5 with Laravel passport https://laravel.com/docs/5.5/passport
-2. PHP >= 7.0
+2. PHP >= 7.0 --> this will be included on your XAMP/LAMP/MAMP Stack dev environment
 3. VUE.js 2.0  
+4. Composer
+5. Npm
+6. XAMP/LAMP/MAMP  
 
 How to use:
-1. Install Laravel 5.5
-2. Connect and Configure Database
-3. Run the following in the command line   
-    a. php artisan migrate
-    b. npm install
-    c. npm run dev
+1. Connect and Configure Database
+2. Run the following in the command line   
+    a. Composer update
+    b. php artisan migrate
+    c. npm install
+    d. npm run dev
 
 After Installation
 1. Register API User Admin
