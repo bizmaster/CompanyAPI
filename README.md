@@ -1,4 +1,4 @@
-# CompanyAPI
+# Baseline Project / Core API
 Laravel 5.5 
   REST API Resource Link 
   Passport Authorization (OAuth2)
