@@ -25,6 +25,6 @@ After Installation
 2. Add new client authorization
 3. For more details follow the reference guide below
 
-Reference Guide
+Reference Guide / Credits
 https://youtu.be/4pc6cgisbKE- REST API implementing new API Resource links
 https://www.itechempires.com/2017/09/laravel-5-5-api-user-authentication-passport-package/ - 
