@@ -2,7 +2,7 @@
 Laravel 5.5 
   REST API Resource Link 
   Passport Authorization (OAuth2)
-  VUE.js for CRUD operation of new client authorization
+  with VUE.js for CRUD operation of new client authorization
 
 Prerequisite:
 1. Laravel 5.5 with Laravel passport https://laravel.com/docs/5.5/passport
